@@ -3,6 +3,7 @@
 
 The official PyServ.net Github Organization.
 
-Discord: https://discord.pyserv.net
-Website: https://www.pyserv.net
-Vote for us: https://vote.pyserv.net
+Join us on Discord: https://discord.pyserv.net
+<br/>Visit our Website: https://www.pyserv.net
+<br/>Vote for us: https://vote.pyserv.net
+<br/>Support us on Crowdin: https://crowdin.pyserv.net
